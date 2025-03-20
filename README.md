@@ -1,5 +1,4 @@
-Python Practice Scripts 🐍
-Welcome to Python Practice Scripts! This repository contains a collection of Python scripts designed for learning, experimentation, and problem-solving. Whether you're a beginner looking to strengthen your Python skills or an experienced developer exploring new concepts, you'll find useful scripts here.
+🐍Welcome to Python Practice Scripts! This repository contains a collection of Python scripts designed for learning, experimentation, and problem-solving. Whether you're a beginner looking to strengthen your Python skills or an experienced developer exploring new concepts, you'll find useful scripts here.
 
 📌 About This Repository
 This repository includes various Python scripts covering:
